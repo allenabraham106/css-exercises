@@ -1,0 +1,13 @@
+.basic,
+.fancy{
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+.basic{
+    background-color: black;
+    color: white;
+}
+
+.fancy{
+    background-color: yellow;
+}
